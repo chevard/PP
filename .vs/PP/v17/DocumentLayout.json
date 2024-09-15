@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\PP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\6asubjectsadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\6asubjectsadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|c:\\users\\admin\\downloads\\pp\\pp\\pages\\6asubjectsadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\6asubjectsadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\appdata\\condb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\appdata\\condb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\6ASubjects.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\6ASubjects.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\appdata\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\appdata\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\filtr6a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\filtr6a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\filtr6a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\filtr6a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\forteachers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\forteachers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\forteachers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\forteachers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\otchet5a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\otchet5a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\otchet8a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\otchet8a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\otchet8a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\otchet8a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Otchet7A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\otchet6a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\otchet6a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Otchet5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades8a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades8a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades7a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades7a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Grades6A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Grades5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\A5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades8aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades8aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades7aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades7aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades6aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades6aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\grades5aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\grades5aadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DOWNLOADS_PP_PP_SCHOOL5.MDF/True/SqlTable/dbo.ClassTeachers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DOWNLOADS_PP_PP_SCHOOL5.MDF/True/SqlTable/dbo.Subjects5A.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Grades6A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\otchet6a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\otchet6a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Otchet7A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\pp\\pages\\vyvodall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:pp\\pages\\vyvodall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Poisk5A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Poisk5A.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\Grades5A.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\ClassTeachersPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\ClassTeachersPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D9AD3D-C5D4-4ED4-B7A8-4A2FE21A87A6}|PP\\PP.csproj|solutionrelative:PP\\Pages\\A5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6ASubjectsAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjectsAdd.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\6ASubjectsAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjectsAdd.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\6ASubjectsAdd.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:53:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\AppData\\ConDB.cs",
+              "RelativeDocumentMoniker": "PP\\AppData\\ConDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\AppData\\ConDB.cs",
+              "RelativeToolTip": "PP\\AppData\\ConDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:22:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6ASubjectsAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjectsAdd.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\6ASubjectsAdd.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjectsAdd.xaml",
+              "RelativeToolTip": "PP\\Pages\\6ASubjectsAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T13:53:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6ASubjects.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\6ASubjects.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\6ASubjects.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAewEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nav.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\AppData\\Nav.cs",
+              "RelativeDocumentMoniker": "PP\\AppData\\Nav.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\AppData\\Nav.cs",
+              "RelativeToolTip": "PP\\AppData\\Nav.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:24:20.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:22:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\MainWindow.xaml",
+              "RelativeToolTip": "PP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T13:22:31.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6ASubjects.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\6ASubjects.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\6ASubjects.xaml",
+              "RelativeToolTip": "PP\\Pages\\6ASubjects.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Filtr6A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Filtr6A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Filtr6A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Filtr6A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Filtr6A.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:45:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Filtr6A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Filtr6A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Filtr6A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Filtr6A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Filtr6A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T05:33:30.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "A5.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\A5.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml",
+              "RelativeToolTip": "PP\\Pages\\A5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Grades7AAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades7AAdd.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades7AAdd.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades7AAdd.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades7AAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:22:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClassTeachersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\ClassTeachersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\ClassTeachersPage.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwFgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClassTeachersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\ClassTeachersPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\ClassTeachersPage.xaml",
+              "RelativeToolTip": "PP\\Pages\\ClassTeachersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "forTeachers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\forTeachers.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\forTeachers.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\forTeachers.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\forTeachers.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:39:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "forTeachers.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\forTeachers.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\forTeachers.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\forTeachers.xaml",
+              "RelativeToolTip": "PP\\Pages\\forTeachers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T10:39:41.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Grades6A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades6A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades6A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Otchet5A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet5A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet5A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet5A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Otchet5A.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAApwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grades8A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades8A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades8A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades8A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades8A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:27:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Otchet6A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet6A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet6A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet6A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Otchet6A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:29:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Otchet7A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet7A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Otchet7A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Otchet8A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet8A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet8A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet8A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Otchet8A.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:49:23.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Grades8AAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades8AAdd.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades8AAdd.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades8AAdd.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades8AAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:23:31.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Otchet5A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet5A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet5A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet5A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Otchet5A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Otchet8A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet8A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet8A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet8A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Otchet8A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:29:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Grades6AAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6AAdd.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades6AAdd.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6AAdd.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades6AAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:22:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Otchet6A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet6A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet6A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet6A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Otchet6A.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA5wDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:30:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Otchet7A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Otchet7A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Otchet7A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Otchet7A.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwEoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Poisk5A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Poisk5A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Poisk5A.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA/wDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Grades5A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades5A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades5A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Grades7A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades7A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades7A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades7A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades7A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:27:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Grades5AAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5AAdd.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades5AAdd.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5AAdd.xaml",
+              "RelativeToolTip": "PP\\Pages\\Grades5AAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:21:50.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Poisk5A.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\Poisk5A.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Poisk5A.xaml",
+              "RelativeToolTip": "PP\\Pages\\Poisk5A.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Grades5A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades5A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades5A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Grades5A.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwH0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Grades6A.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\Grades6A.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\Grades6A.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\Grades6A.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAApwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "A5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml.cs",
+              "RelativeDocumentMoniker": "PP\\Pages\\A5.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\A5.xaml.cs",
+              "RelativeToolTip": "PP\\Pages\\A5.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:22:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.ClassTeachers [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DOWNLOADS_PP_PP_SCHOOL5.MDF/True/SqlTable/dbo.ClassTeachers.sql",
+              "ToolTip": "dbo.ClassTeachers [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T07:13:21.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Subjects5A [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMIN_DOWNLOADS_PP_PP_SCHOOL5.MDF/True/SqlTable/dbo.Subjects5A.sql",
+              "ToolTip": "dbo.Subjects5A [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T07:10:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "vyvodAll.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\vyvodAll.xaml",
+              "RelativeDocumentMoniker": "PP\\Pages\\vyvodAll.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\PP\\PP\\Pages\\vyvodAll.xaml",
+              "RelativeToolTip": "PP\\Pages\\vyvodAll.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:22:43.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
