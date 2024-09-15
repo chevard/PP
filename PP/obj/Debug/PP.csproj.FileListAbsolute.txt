@@ -1,0 +1,259 @@
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.AssemblyReference.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A5.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\MainWindow.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\MainPage.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\vyvodAll.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\App.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP_Content.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP_MarkupCompile.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP_MarkupCompile.lref
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\school5.mdf
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\school5_log.ldf
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\PP.exe.config
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\PP.exe
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\PP.pdb
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EntityFramework.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EntityFramework.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A5.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\MainWindow.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\MainPage.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\vyvodAll.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.g.resources
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.CopyComplete
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.exe
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.pdb
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A5Add.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A5Add.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A6.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A6Add.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A7.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A7Add.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A8.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A8Add.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A6.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A6Add.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A7.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A7Add.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A8.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\A8Add.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\ClassTeachersAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\ClassTeachersPage.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\ClassTeachersAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\ClassTeachersPage.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\5ASubjects.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\5ASubjectsAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\6ASubjects.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\6ASubjectsAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\7ASubjects.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\8ASubjects.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\_7ASubjectsAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\_8ASubjectsAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\5ASubjects.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\5ASubjectsAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\6ASubjects.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\6ASubjectsAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\7ASubjects.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\8ASubjects.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\_7ASubjectsAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\_8ASubjectsAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades5A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades5AAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades5A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades5AAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades6A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades6AAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades7A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades7AAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades8A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades8AAdd.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades6A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades6AAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades7A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades7AAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades8A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Grades8AAdd.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr6A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr7A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr8A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr6A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr7A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Filtr8A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk5A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk5A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk6A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk7A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk8A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk6A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk7A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Poisk8A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia5A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia5A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia6A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia7A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia8A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia6A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia7A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Vychislenia8A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\PP.csproj.ResolveComReference.cache
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet5A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet5A.baml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EPPlus.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Buffers.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Memory.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\EPPlus.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Buffers.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Memory.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mishe\source\repos\PP\PP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet6A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet7A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet8A.g.cs
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet6A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet7A.baml
+C:\Users\mishe\source\repos\PP\PP\obj\Debug\Pages\Otchet8A.baml
+D:\Производственная практика\PP\PP\bin\Debug\school5.mdf
+D:\Производственная практика\PP\PP\bin\Debug\school5_log.ldf
+D:\Производственная практика\PP\PP\bin\Debug\PP.exe.config
+D:\Производственная практика\PP\PP\bin\Debug\PP.exe
+D:\Производственная практика\PP\PP\bin\Debug\PP.pdb
+D:\Производственная практика\PP\PP\bin\Debug\EntityFramework.dll
+D:\Производственная практика\PP\PP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Производственная практика\PP\PP\bin\Debug\EPPlus.dll
+D:\Производственная практика\PP\PP\bin\Debug\EPPlus.Interfaces.dll
+D:\Производственная практика\PP\PP\bin\Debug\EPPlus.System.Drawing.dll
+D:\Производственная практика\PP\PP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Производственная практика\PP\PP\bin\Debug\System.Buffers.dll
+D:\Производственная практика\PP\PP\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Производственная практика\PP\PP\bin\Debug\System.Memory.dll
+D:\Производственная практика\PP\PP\bin\Debug\System.Numerics.Vectors.dll
+D:\Производственная практика\PP\PP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Производственная практика\PP\PP\bin\Debug\EntityFramework.xml
+D:\Производственная практика\PP\PP\bin\Debug\EntityFramework.SqlServer.xml
+D:\Производственная практика\PP\PP\bin\Debug\EPPlus.xml
+D:\Производственная практика\PP\PP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Производственная практика\PP\PP\bin\Debug\System.Buffers.xml
+D:\Производственная практика\PP\PP\bin\Debug\System.Memory.xml
+D:\Производственная практика\PP\PP\bin\Debug\System.Numerics.Vectors.xml
+D:\Производственная практика\PP\PP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Производственная практика\PP\PP\bin\Debug\ru\EntityFramework.resources.dll
+D:\Производственная практика\PP\PP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Производственная практика\PP\PP\obj\Debug\PP.csproj.AssemblyReference.cache
+D:\Производственная практика\PP\PP\obj\Debug\PP.csproj.ResolveComReference.cache
+D:\Производственная практика\PP\PP\obj\Debug\Pages\5ASubjects.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\5ASubjectsAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\6ASubjects.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\6ASubjectsAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\7ASubjects.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\8ASubjects.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A5.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\MainWindow.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A5Add.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A6.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A6Add.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A7.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A7Add.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A8.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A8Add.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\ClassTeachersAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\ClassTeachersPage.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr6A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr7A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr8A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades5A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades5AAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades6A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades6AAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades7A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades7AAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades8A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades8AAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\MainPage.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet5A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet6A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet7A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet8A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk5A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk6A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk7A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk8A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia5A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia6A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia7A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia8A.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\vyvodAll.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\_7ASubjectsAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\Pages\_8ASubjectsAdd.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\App.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\PP_Content.g.cs
+D:\Производственная практика\PP\PP\obj\Debug\PP_MarkupCompile.cache
+D:\Производственная практика\PP\PP\obj\Debug\PP_MarkupCompile.lref
+D:\Производственная практика\PP\PP\obj\Debug\Pages\5ASubjects.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\5ASubjectsAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\6ASubjects.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\6ASubjectsAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\7ASubjects.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\8ASubjects.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A5.baml
+D:\Производственная практика\PP\PP\obj\Debug\MainWindow.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A5Add.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A6.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A6Add.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A7.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A7Add.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A8.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\A8Add.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\ClassTeachersAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\ClassTeachersPage.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr6A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr7A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Filtr8A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades5A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades5AAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades6A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades6AAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades7A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades7AAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades8A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Grades8AAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\MainPage.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet5A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet6A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet7A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Otchet8A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk5A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk6A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk7A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Poisk8A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia5A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia6A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia7A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\Vychislenia8A.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\vyvodAll.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\_7ASubjectsAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\Pages\_8ASubjectsAdd.baml
+D:\Производственная практика\PP\PP\obj\Debug\PP.g.resources
+D:\Производственная практика\PP\PP\obj\Debug\PP.Properties.Resources.resources
+D:\Производственная практика\PP\PP\obj\Debug\PP.csproj.GenerateResource.cache
+D:\Производственная практика\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+D:\Производственная практика\PP\PP\obj\Debug\PP.csproj.CopyComplete
+D:\Производственная практика\PP\PP\obj\Debug\PP.exe
+D:\Производственная практика\PP\PP\obj\Debug\PP.pdb

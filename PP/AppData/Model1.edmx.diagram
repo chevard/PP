@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cbd344acbf5e408193806ba6564134ce" Name="Diagram1" ZoomLevel="58">
+        <EntityTypeShape EntityType="school5Model.ClassTeachers" Width="1.5" PointX="6.5" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Grades_Class5A" Width="1.5" PointX="12.5" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Grades_Class6A" Width="1.5" PointX="2.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Grades_Class7A" Width="1.5" PointX="1.5" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Grades_Class8A" Width="1.5" PointX="12.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Students5A" Width="1.5" PointX="9.5" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Students6A" Width="1.5" PointX="4.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Students7A" Width="1.5" PointX="4.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Students8A" Width="1.5" PointX="9.5" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Subjects5A" Width="1.5" PointX="15.625" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Subjects6A" Width="1.5" PointX="2.375" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Subjects7A" Width="1.5" PointX="1.5" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="school5Model.Subjects8A" Width="1.5" PointX="12.875" PointY="10.125" IsExpanded="true" />
+        <AssociationConnector Association="school5Model.FK__Students5__Class__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Students6__Class__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Students7__Class__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Students8__Class__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Stude__1BC821DD" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Subje__1CBC4616" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Stude__1F98B2C1" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Subje__208CD6FA" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Stude__236943A5" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Subje__245D67DE" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Stude__2739D489" ManuallyRouted="false" />
+        <AssociationConnector Association="school5Model.FK__Grades_Cl__Subje__282DF8C2" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

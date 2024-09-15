@@ -1,0 +1,29 @@
+﻿<Page x:Class="PP.Pages.Grades7AAdd"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PP.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Grades7AAdd">
+
+    <Grid Background="#FF8FF190">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="21*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="73*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="FIOtextb" Text ="{Binding StudentID}" Grid.Row="0" Margin="0,52,0,129" Width="538" HorizontalAlignment="Center" FontFamily="Bahnschrift Condensed" FontSize="30"></TextBox>
+        <TextBox x:Name="Адрес" Text ="{Binding SubjectID}" Margin="0,152,0,27" Width="538" HorizontalAlignment="Center" FontFamily="Bahnschrift Condensed" FontSize="30"/>
+        <TextBox x:Name="Оценка" Text ="{Binding Grade}" Margin="0,57,0,110" Width="538" HorizontalAlignment="Center" FontFamily="Bahnschrift Condensed" FontSize="30" Grid.Row="1"/>
+        <Button  x:Name ="dobavit" Click ="dobavit_Click" Grid.Column="1" Margin="28,192,49,180" FontFamily="Bahnschrift Condensed" FontSize="30" Grid.RowSpan="2" Background="White">Добавить</Button>
+        <Button  x:Name ="nazad" Click ="nazad_Click" Grid.Column="1" Grid.Row="1" Margin="56,166,0,0" FontFamily="Bahnschrift Condensed" FontSize="25" Background="White">Назад</Button>
+        <TextBlock HorizontalAlignment="Left" Margin="26,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="291" Height="37" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontSize="30"><Run Language="ru-ru" Text="ID студента"/><LineBreak/><Run Language="ru-ru"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="26,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="269" Height="38" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontSize="30"><Run Language="ru-ru" Text="ID предмета"/><LineBreak/><Run Language="ru-ru"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="26,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="269" Height="38" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontSize="30" Grid.Row="1"><Run Language="ru-ru" Text="Оценка"/><LineBreak/><Run Language="ru-ru"/></TextBlock>
+    </Grid>
+</Page>

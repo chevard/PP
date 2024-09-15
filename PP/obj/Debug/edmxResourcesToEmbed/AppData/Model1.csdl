@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="school5Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ClassTeachers">
+    <Key>
+      <PropertyRef Name="TeacherID" />
+    </Key>
+    <Property Name="TeacherID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students5A" Relationship="Self.FK__Students5__Class__6D0D32F4" FromRole="ClassTeachers" ToRole="Students5A" />
+    <NavigationProperty Name="Students6A" Relationship="Self.FK__Students6__Class__6FE99F9F" FromRole="ClassTeachers" ToRole="Students6A" />
+    <NavigationProperty Name="Students7A" Relationship="Self.FK__Students7__Class__72C60C4A" FromRole="ClassTeachers" ToRole="Students7A" />
+    <NavigationProperty Name="Students8A" Relationship="Self.FK__Students8__Class__75A278F5" FromRole="ClassTeachers" ToRole="Students8A" />
+  </EntityType>
+  <EntityType Name="Grades_Class5A">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <Property Name="Grade" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Students5A" Relationship="Self.FK__Grades_Cl__Stude__1BC821DD" FromRole="Grades_Class5A" ToRole="Students5A" />
+    <NavigationProperty Name="Subjects5A" Relationship="Self.FK__Grades_Cl__Subje__1CBC4616" FromRole="Grades_Class5A" ToRole="Subjects5A" />
+  </EntityType>
+  <EntityType Name="Grades_Class6A">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <Property Name="Grade" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Students6A" Relationship="Self.FK__Grades_Cl__Stude__1F98B2C1" FromRole="Grades_Class6A" ToRole="Students6A" />
+    <NavigationProperty Name="Subjects6A" Relationship="Self.FK__Grades_Cl__Subje__208CD6FA" FromRole="Grades_Class6A" ToRole="Subjects6A" />
+  </EntityType>
+  <EntityType Name="Grades_Class7A">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <Property Name="Grade" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Students7A" Relationship="Self.FK__Grades_Cl__Stude__236943A5" FromRole="Grades_Class7A" ToRole="Students7A" />
+    <NavigationProperty Name="Subjects7A" Relationship="Self.FK__Grades_Cl__Subje__245D67DE" FromRole="Grades_Class7A" ToRole="Subjects7A" />
+  </EntityType>
+  <EntityType Name="Grades_Class8A">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <Property Name="Grade" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Students8A" Relationship="Self.FK__Grades_Cl__Stude__2739D489" FromRole="Grades_Class8A" ToRole="Students8A" />
+    <NavigationProperty Name="Subjects8A" Relationship="Self.FK__Grades_Cl__Subje__282DF8C2" FromRole="Grades_Class8A" ToRole="Subjects8A" />
+  </EntityType>
+  <EntityType Name="Students5A">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="ClassTeacherID" Type="Int32" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ClassTeachers" Relationship="Self.FK__Students5__Class__6D0D32F4" FromRole="Students5A" ToRole="ClassTeachers" />
+    <NavigationProperty Name="Grades_Class5A" Relationship="Self.FK__Grades_Cl__Stude__1BC821DD" FromRole="Students5A" ToRole="Grades_Class5A" />
+  </EntityType>
+  <EntityType Name="Students6A">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="ClassTeacherID" Type="Int32" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ClassTeachers" Relationship="Self.FK__Students6__Class__6FE99F9F" FromRole="Students6A" ToRole="ClassTeachers" />
+    <NavigationProperty Name="Grades_Class6A" Relationship="Self.FK__Grades_Cl__Stude__1F98B2C1" FromRole="Students6A" ToRole="Grades_Class6A" />
+  </EntityType>
+  <EntityType Name="Students7A">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="ClassTeacherID" Type="Int32" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="ClassTeachers" Relationship="Self.FK__Students7__Class__72C60C4A" FromRole="Students7A" ToRole="ClassTeachers" />
+    <NavigationProperty Name="Grades_Class7A" Relationship="Self.FK__Grades_Cl__Stude__236943A5" FromRole="Students7A" ToRole="Grades_Class7A" />
+  </EntityType>
+  <EntityType Name="Students8A">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassTeacherID" Type="Int32" />
+    <NavigationProperty Name="ClassTeachers" Relationship="Self.FK__Students8__Class__75A278F5" FromRole="Students8A" ToRole="ClassTeachers" />
+    <NavigationProperty Name="Grades_Class8A" Relationship="Self.FK__Grades_Cl__Stude__2739D489" FromRole="Students8A" ToRole="Grades_Class8A" />
+  </EntityType>
+  <EntityType Name="Subjects5A">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Grades_Class5A" Relationship="Self.FK__Grades_Cl__Subje__1CBC4616" FromRole="Subjects5A" ToRole="Grades_Class5A" />
+  </EntityType>
+  <EntityType Name="Subjects6A">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Grades_Class6A" Relationship="Self.FK__Grades_Cl__Subje__208CD6FA" FromRole="Subjects6A" ToRole="Grades_Class6A" />
+  </EntityType>
+  <EntityType Name="Subjects7A">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Grades_Class7A" Relationship="Self.FK__Grades_Cl__Subje__245D67DE" FromRole="Subjects7A" ToRole="Grades_Class7A" />
+  </EntityType>
+  <EntityType Name="Subjects8A">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClassName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Grades_Class8A" Relationship="Self.FK__Grades_Cl__Subje__282DF8C2" FromRole="Subjects8A" ToRole="Grades_Class8A" />
+  </EntityType>
+  <Association Name="FK__Students5__Class__6D0D32F4">
+    <End Role="ClassTeachers" Type="Self.ClassTeachers" Multiplicity="0..1" />
+    <End Role="Students5A" Type="Self.Students5A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassTeachers">
+        <PropertyRef Name="TeacherID" />
+      </Principal>
+      <Dependent Role="Students5A">
+        <PropertyRef Name="ClassTeacherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Students6__Class__6FE99F9F">
+    <End Role="ClassTeachers" Type="Self.ClassTeachers" Multiplicity="0..1" />
+    <End Role="Students6A" Type="Self.Students6A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassTeachers">
+        <PropertyRef Name="TeacherID" />
+      </Principal>
+      <Dependent Role="Students6A">
+        <PropertyRef Name="ClassTeacherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Students7__Class__72C60C4A">
+    <End Role="ClassTeachers" Type="Self.ClassTeachers" Multiplicity="0..1" />
+    <End Role="Students7A" Type="Self.Students7A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassTeachers">
+        <PropertyRef Name="TeacherID" />
+      </Principal>
+      <Dependent Role="Students7A">
+        <PropertyRef Name="ClassTeacherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Students8__Class__75A278F5">
+    <End Role="ClassTeachers" Type="Self.ClassTeachers" Multiplicity="0..1" />
+    <End Role="Students8A" Type="Self.Students8A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassTeachers">
+        <PropertyRef Name="TeacherID" />
+      </Principal>
+      <Dependent Role="Students8A">
+        <PropertyRef Name="ClassTeacherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Stude__1BC821DD">
+    <End Role="Students5A" Type="Self.Students5A" Multiplicity="1" />
+    <End Role="Grades_Class5A" Type="Self.Grades_Class5A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students5A">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Grades_Class5A">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Subje__1CBC4616">
+    <End Role="Subjects5A" Type="Self.Subjects5A" Multiplicity="1" />
+    <End Role="Grades_Class5A" Type="Self.Grades_Class5A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects5A">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="Grades_Class5A">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Stude__1F98B2C1">
+    <End Role="Students6A" Type="Self.Students6A" Multiplicity="1" />
+    <End Role="Grades_Class6A" Type="Self.Grades_Class6A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students6A">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Grades_Class6A">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Subje__208CD6FA">
+    <End Role="Subjects6A" Type="Self.Subjects6A" Multiplicity="1" />
+    <End Role="Grades_Class6A" Type="Self.Grades_Class6A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects6A">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="Grades_Class6A">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Stude__236943A5">
+    <End Role="Students7A" Type="Self.Students7A" Multiplicity="1" />
+    <End Role="Grades_Class7A" Type="Self.Grades_Class7A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students7A">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Grades_Class7A">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Subje__245D67DE">
+    <End Role="Subjects7A" Type="Self.Subjects7A" Multiplicity="1" />
+    <End Role="Grades_Class7A" Type="Self.Grades_Class7A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects7A">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="Grades_Class7A">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Stude__2739D489">
+    <End Role="Students8A" Type="Self.Students8A" Multiplicity="1" />
+    <End Role="Grades_Class8A" Type="Self.Grades_Class8A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students8A">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Grades_Class8A">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Grades_Cl__Subje__282DF8C2">
+    <End Role="Subjects8A" Type="Self.Subjects8A" Multiplicity="1" />
+    <End Role="Grades_Class8A" Type="Self.Grades_Class8A" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects8A">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="Grades_Class8A">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="school5Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ClassTeachers" EntityType="Self.ClassTeachers" />
+    <EntitySet Name="Grades_Class5A" EntityType="Self.Grades_Class5A" />
+    <EntitySet Name="Grades_Class6A" EntityType="Self.Grades_Class6A" />
+    <EntitySet Name="Grades_Class7A" EntityType="Self.Grades_Class7A" />
+    <EntitySet Name="Grades_Class8A" EntityType="Self.Grades_Class8A" />
+    <EntitySet Name="Students5A" EntityType="Self.Students5A" />
+    <EntitySet Name="Students6A" EntityType="Self.Students6A" />
+    <EntitySet Name="Students7A" EntityType="Self.Students7A" />
+    <EntitySet Name="Students8A" EntityType="Self.Students8A" />
+    <EntitySet Name="Subjects5A" EntityType="Self.Subjects5A" />
+    <EntitySet Name="Subjects6A" EntityType="Self.Subjects6A" />
+    <EntitySet Name="Subjects7A" EntityType="Self.Subjects7A" />
+    <EntitySet Name="Subjects8A" EntityType="Self.Subjects8A" />
+    <AssociationSet Name="FK__Students5__Class__6D0D32F4" Association="Self.FK__Students5__Class__6D0D32F4">
+      <End Role="ClassTeachers" EntitySet="ClassTeachers" />
+      <End Role="Students5A" EntitySet="Students5A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Students6__Class__6FE99F9F" Association="Self.FK__Students6__Class__6FE99F9F">
+      <End Role="ClassTeachers" EntitySet="ClassTeachers" />
+      <End Role="Students6A" EntitySet="Students6A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Students7__Class__72C60C4A" Association="Self.FK__Students7__Class__72C60C4A">
+      <End Role="ClassTeachers" EntitySet="ClassTeachers" />
+      <End Role="Students7A" EntitySet="Students7A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Students8__Class__75A278F5" Association="Self.FK__Students8__Class__75A278F5">
+      <End Role="ClassTeachers" EntitySet="ClassTeachers" />
+      <End Role="Students8A" EntitySet="Students8A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Stude__1BC821DD" Association="Self.FK__Grades_Cl__Stude__1BC821DD">
+      <End Role="Students5A" EntitySet="Students5A" />
+      <End Role="Grades_Class5A" EntitySet="Grades_Class5A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Subje__1CBC4616" Association="Self.FK__Grades_Cl__Subje__1CBC4616">
+      <End Role="Subjects5A" EntitySet="Subjects5A" />
+      <End Role="Grades_Class5A" EntitySet="Grades_Class5A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Stude__1F98B2C1" Association="Self.FK__Grades_Cl__Stude__1F98B2C1">
+      <End Role="Students6A" EntitySet="Students6A" />
+      <End Role="Grades_Class6A" EntitySet="Grades_Class6A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Subje__208CD6FA" Association="Self.FK__Grades_Cl__Subje__208CD6FA">
+      <End Role="Subjects6A" EntitySet="Subjects6A" />
+      <End Role="Grades_Class6A" EntitySet="Grades_Class6A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Stude__236943A5" Association="Self.FK__Grades_Cl__Stude__236943A5">
+      <End Role="Students7A" EntitySet="Students7A" />
+      <End Role="Grades_Class7A" EntitySet="Grades_Class7A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Subje__245D67DE" Association="Self.FK__Grades_Cl__Subje__245D67DE">
+      <End Role="Subjects7A" EntitySet="Subjects7A" />
+      <End Role="Grades_Class7A" EntitySet="Grades_Class7A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Stude__2739D489" Association="Self.FK__Grades_Cl__Stude__2739D489">
+      <End Role="Students8A" EntitySet="Students8A" />
+      <End Role="Grades_Class8A" EntitySet="Grades_Class8A" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Grades_Cl__Subje__282DF8C2" Association="Self.FK__Grades_Cl__Subje__282DF8C2">
+      <End Role="Subjects8A" EntitySet="Subjects8A" />
+      <End Role="Grades_Class8A" EntitySet="Grades_Class8A" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
