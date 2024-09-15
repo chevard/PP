@@ -17,11 +17,11 @@
             <RowDefinition Height="1*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
-        <Button x:Name="vvid" Click= "vvod_Click" FontFamily="Bahnschrift Condensed" FontSize="30">Данные</Button>
-        <Button Grid.Row="1" x:Name="vyborka" FontFamily="Bahnschrift Condensed" FontSize="30" Click="vyborka_Click">Выборка/фильтрация</Button>
-        <Button Grid.Row="2" x:Name="search" FontFamily="Bahnschrift Condensed" FontSize="30" Click= "search_Click">Поиск</Button>
-        <Button Grid.Row="3" x:Name="vichislenia" FontFamily="Bahnschrift Condensed" FontSize="30" Click= "vichislenia_Click">Вычисления</Button>
-        <Button Grid.Row="4" x:Name="otchety" FontFamily="Bahnschrift Condensed" FontSize="30" Click="otchety_Click" >Отчёты</Button>
-        <Button Grid.Row="5" x:Name="vyhod" FontFamily="Bahnschrift Condensed" FontSize="30" Click= "vyhod_Click">Выход</Button>
+        <Button x:Name="vvid" Click= "vvod_Click" FontFamily="Cambria" FontSize="30" Background="White" Margin="15,10,15,74" Grid.RowSpan="2" Foreground="#FF1C21ED">Данные</Button>
+        <Button x:Name="vyborka" FontFamily="Cambria" FontSize="30" Click="vyborka_Click" Background="White" Margin="15,3,15,4" Grid.Row="1" Foreground="#FF1C21ED">Выборка/фильтрация</Button>
+        <Button Grid.Row="2" x:Name="search" FontFamily="Cambria" FontSize="30" Click= "search_Click" Background="White" Margin="15,0,15,7" Foreground="#FF1C21ED">Поиск</Button>
+        <Button Grid.Row="2" x:Name="vichislenia" FontFamily="Cambria" FontSize="30" Click= "vichislenia_Click" Background="White" Margin="15,72,15,12" Grid.RowSpan="2" Foreground="#FF1C21ED">Вычисления</Button>
+        <Button Grid.Row="3" x:Name="otchety" FontFamily="Cambria" FontSize="30" Click="otchety_Click" Background="White" Margin="15,70,15,12" Grid.RowSpan="2" Foreground="#FF1C21ED" >Отчёты</Button>
+        <Button Grid.Row="4" x:Name="vyhod" FontFamily="Cambria" FontSize="30" Click= "vyhod_Click" Background="White" Margin="15,71,15,13" Grid.RowSpan="2" Foreground="#FF1C21ED">Выход</Button>
     </Grid>
 </Page>
